@@ -19,6 +19,7 @@ main {
 
 .container {
     width: 60%;
+    min-height: fit-content;
     height: 60%;
     display: flex;
     align-items: center;
